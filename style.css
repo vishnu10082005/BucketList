@@ -1,0 +1,39 @@
+body{
+  background-image: url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/bucketlist/bucket-list-bg%5B1%5D.png);
+
+  background-size: 1500px 300px ;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  .heading{
+    margin-top: 150px;
+    text-align: center;
+    
+  }
+.btn-submit{
+  text-align: center;
+  float: center;
+  border-radius: 10px;
+  background-color: yellow;
+  }
+.list-container{
+  text-align: center;margin-top: 125px;
+}
+.input-field{
+  border-radius: 10px;
+}
+.btn-reset{
+  background-color: yellow;
+  margin-top: 25px;
+  border-radius: 10px;
+}
+.table{
+  list-style: disc;
+  list-style-position: inside;
+}
+.footer{
+  margin-top: 50px;
+}
+}
+
+
