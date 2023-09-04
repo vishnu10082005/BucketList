@@ -15,6 +15,8 @@ body{
   float: center;
   border-radius: 10px;
   background-color: yellow;
+  position: relative;
+  right: 40px;
   }
 .list-container{
   text-align: center;margin-top: 125px;
@@ -34,6 +36,23 @@ body{
 .footer{
   margin-top: 50px;
 }
+li{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  width: 450px;
+  height: 40px;
+  border-radius: 20px;
+  margin-bottom: 15px;
+  align-items: center;
+  padding: 0 10px;
+  font-size: 18px;
 }
+
+}
+
+
+
+
 
 
